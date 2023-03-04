@@ -1,7 +1,7 @@
 # Programa entregar un número de 3 digitos inverso
 
 print("-----------------------------------")
-print("--------Reflejar numero------------")
+print("-----------Determine---------------")
 print("-----------------------------------")
 
 #input
