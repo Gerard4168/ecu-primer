@@ -1,4 +1,4 @@
-# Programa entregar un número de 3 digitos inverso
+# programa para resolver una ecuacion de primer grado ax+b=0
 
 print("-----------------------------------")
 print("-----------Determine---------------")
